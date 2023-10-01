@@ -16,5 +16,4 @@
 - 📝Jekyll blogging site
 
 # Skills:
-<br>
 [![My Skills](https://skillicons.dev/icons?i=git,py,unity,java,js,html,css,php,nginx,flask,bash,powershell,mysql,docker,vscode,aws,unity,blender&perline=9)](https://skillicons.dev)
