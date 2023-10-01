@@ -1,7 +1,7 @@
 ![advikstat](https://github-readme-stats.vercel.app/api?username=advikg&theme=transparent&show_icons=true)
-<html align=center>
-- 👋Hey, I'm Advik
-- I participate in CyberPatriot and am passionate about cybersecurity
+
+# 👋Hey, I'm Advik
+## I participate in CyberPatriot and am passionate about cybersecurity
 
 # Interests:
 - Web Development(Frontend & Backend)
@@ -20,4 +20,3 @@
 - Windows Security
 - Multiple Languages:<br><br>
 [![My Skills](https://skillicons.dev/icons?i=git,py,unity,java,js,html,css,php,nginx,flask,bash,powershell,mysql,docker,vscode,aws,unity,blender&perline=9)](https://skillicons.dev)
-</html>
