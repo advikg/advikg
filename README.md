@@ -1,15 +1,15 @@
 ![advikstat](https://github-readme-stats.vercel.app/api?username=advikg&theme=transparent&show_icons=true)
-
+<html align=center>
 - 👋Hey, I'm Advik
 - I participate in CyberPatriot and am passionate about cybersecurity
 
 # Interests:
-- Web Development
+- Web Development(Frontend & Backend)
 - Security Auditing
 - Network Configuration
 - Windows Security
 - Digital Forensics
-- Game Development
+- Game Development (Unity)
 
 # Projects:
 - 🔒Windows hardening/security compliance
@@ -18,5 +18,6 @@
 # Skills:
 - Cisco IOS/ASA
 - Windows Security
-- Multiple Languages:<br>
-[![My Skills](https://skillicons.dev/icons?i=git,py,java,js,html,css,bash,powershell,sql,vscode,aws)](https://skillicons.dev)
+- Multiple Languages:<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,py,unity,java,js,html,css,php,nginx,flask,bash,powershell,mysql,docker,vscode,aws,unity,blender&perline=9)](https://skillicons.dev)
+</html>
