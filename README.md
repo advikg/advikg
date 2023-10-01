@@ -4,19 +4,17 @@
 ## I participate in CyberPatriot and am passionate about cybersecurity
 
 # Interests:
-- Web Development(Frontend & Backend)
-- Security Auditing
-- Network Configuration
-- Windows Security
-- Digital Forensics
-- Game Development (Unity)
+- 💻Web Development(Frontend & Backend)
+- 🔐Security Auditing
+- 🌐Network Configuration
+- 🪟Windows Security
+- 🔍Digital Forensics
+- 🕹️Game Development (Unity)
 
 # Projects:
 - 🔒Windows hardening/security compliance
 - 📝Jekyll blogging site
 
 # Skills:
-- Cisco IOS/ASA
-- Windows Security
-- Multiple Languages:<br><br>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=git,py,unity,java,js,html,css,php,nginx,flask,bash,powershell,mysql,docker,vscode,aws,unity,blender&perline=9)](https://skillicons.dev)
