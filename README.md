@@ -1,16 +1,16 @@
-### Hi there 👋
+![advikstat](https://github-readme-stats.vercel.app/api?username=advikg&theme=transparent&show_icons=true)
 
-<!--
-**advikg/advikg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects:
+- 🔒Windows hardening/security compliance
+- 📝Jekyll blogging site
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills:
+- Cisco IOS/ASA
+- Windows Security
+- Multiple Languages:
+<span>
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=0D69A7" alt="python" height="40"/>
+  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=Go&logoColor=06B9FC" alt="Go" height="40"/>
+  <img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=F89519" alt="linux" height="40"/>
+  <img src="https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=linux&logoColor=F89519" alt="linux" height="40"/>
+</span>
