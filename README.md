@@ -19,4 +19,4 @@
 - Cisco IOS/ASA
 - Windows Security
 - Multiple Languages:<br>
-[![My Skills](https://skillicons.dev/icons?i=git,py,java,js,html,css,bash,powershell,sql,cisco,vscode,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,py,java,js,html,css,bash,powershell,sql,vscode,aws)](https://skillicons.dev)
